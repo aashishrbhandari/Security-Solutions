@@ -17,6 +17,8 @@
 | StrongDM | https://www.strongdm.com/signup |
 | Okta Advanced Server Access | https://www.okta.com/products/advanced-server-access/ |
 
+
+
 ## SASE Solutions
 
 | Solution | Learning Link |
@@ -27,3 +29,10 @@
 
 
 
+## Proxy based Security Solutions
+
+| Solution | Learning Link |
+| ------------- | ------------- |
+| SafeSquid | https://www.safesquid.com/ |
+| Squid | http://www.squid-cache.org/ |
+| MITM Proxy | https://mitmproxy.org/ |
