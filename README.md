@@ -36,3 +36,14 @@
 | SafeSquid | https://www.safesquid.com/ |
 | Squid | http://www.squid-cache.org/ |
 | MITM Proxy | https://mitmproxy.org/ |
+
+
+
+## Email Security Solutions
+
+| Solution | Learning Link |
+| ------------- | ------------- |
+| MimeCast | https://www.mimecast.com/ |
+| ArmorBlox | https://www.armorblox.com/ |
+| GoDMARC | https://godmarc.com/ |
+
